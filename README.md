@@ -42,7 +42,7 @@ I'm Om Kalyankar !
 
 ### ⚔️ Vulnerability Scanning
 - ⚡ Nikto
-
+- 🐉 Nessus
 ---
 
 ### 🪝 Exploitation
