@@ -1,16 +1,100 @@
-## Hi there 👋
+## Hi there👋
+I'm Om Kalyankar !
 
-<!--
-**omkalyankar/omkalyankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Aspiring Cybersecurity Professional | 🧑‍💻 Security Enthusiast | 🔍 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 About Me
+
+- 🎯 Focused on **Cybersecurity**, including:
+  - Network Scanning & Information Gathering
+  - Vulnerability Assessment & Exploitation
+  - CTF Challenges & Writeups
+- 🏫 Internship at *Defence Guru Cyber Education Pvt. Ltd.*
+- 🌱 Currently building a portfolio of **security tools** and **writeups** on GitHub.
+- ⚡ Passionate about ethical hacking and continuous learning.
+
+---
+
+## 🧰 Tools & Languages
+
+
+### 💻 Programming & Scripting
+- 🐍 Python
+- 🐚 Bash
+
+---
+
+### 🛠️ OS & Platforms
+- 🐧 Linux (Kali Linux)
+- 🪟 Windows
+- 📦 VirtualBox
+
+---
+
+### 🔎 Recon & Information Gathering
+- 🌐 Nmap
+- 🔍 theHarvester
+- 📜 Whois
+
+---
+
+### ⚔️ Vulnerability Scanning
+- ⚡ Nikto
+
+---
+
+### 🪝 Exploitation
+- 🗡️ Metasploit Framework
+- 💥 SQLMap
+
+---
+
+### 🧪 Web App Testing
+- 🦀 Burp Suite
+- 🔓 Dirbuster
+
+---
+
+### 🔐 Password Attacks
+- 🔨 Hydra
+- 🦍 John the Ripper
+- 🧰 Crunch
+
+
+---
+
+### 🧭 Wireless Testing
+- 📡 Aircrack-ng
+- 📶 Wireshark
+
+---
+
+### 🗂️ General Tools
+- ⚙️ Git
+- 📄 VS Code
+- 🐧 Terminal
+
+---
+
+
+## 📌 Featured Projects (Coming Soon!)
+
+- ✅ Network Scanning Toolkit
+- ✅ Vulnerability Scanner Scripts
+- ✅ CTF Writeups & Notes
+- ✅ Python Security Tools
+
+
+
+---
+
+## 📫 How to Reach Me
+
+- 🌐 LinkedIn: https://bit.ly/omkalyankar7767
+- 📧 Email: omkalyankar7767@gmail.com
+- 🏴‍☠️ TryHackMe: omkalyanakar
+---
+
+⭐️ *Thanks for visiting my GitHub! Feel free to explore my projects and reach out if you want to collaborate or share ideas.*
