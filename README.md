@@ -94,7 +94,7 @@ I'm Om Kalyankar !
 - 🌐 LinkedIn: https://bit.ly/omkalyankar7767
 - 📧 Email: omkalyankar7767@gmail.com
 - 🏴‍☠️ TryHackMe: https://tryhackme.com/p/omkalyanakar
-- - 🏰 Hack The Box: https://account.hackthebox.com/omkalyankar
+- 🏰 Hack The Box: https://account.hackthebox.com/omkalyankar
 ---
 
 ⭐️ *Thanks for visiting my GitHub! Feel free to explore my projects and reach out if you want to collaborate or share ideas.*
