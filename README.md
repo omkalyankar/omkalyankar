@@ -9,9 +9,8 @@ I'm Om Kalyankar !
 
 - 🎯 Focused on **Cybersecurity**, including:
   - Network Scanning & Information Gathering
-  - Vulnerability Assessment & Exploitation
-  - CTF Challenges & Writeups
-- 🏫 Internship at *Defence Guru Cyber Education Pvt. Ltd.*
+  - Vulnerability Assessment & Security Operation Centre (SOC)
+  - Reporting & Documentaion.
 - 🌱 Currently building a portfolio of **security tools** and **writeups** on GitHub.
 - ⚡ Passionate about ethical hacking and continuous learning.
 
